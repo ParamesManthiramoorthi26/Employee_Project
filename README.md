@@ -54,11 +54,11 @@ Here are some of the insights uncovered during the analysis:
 
 > *(Place your PNG or JPG charts in the repo and reference them like below)*
 
-**1. Department Distribution Chart**  
-![Department Chart](images/department_distribution.png)
+**1. Salary by Job Title**  
+![](https://github.com/ParamesManthiramoorthi26/Employee_Project/blob/master/screenshots/Average%20salary%20by%20title.png)
 
 **2. Salary by Job Title**  
-![Salary Chart](images/salary_by_title.png)
+![Salary Chart](https://github.com/ParamesManthiramoorthi26/Employee_Project/blob/master/screenshots/Average%20salary%20by%20title.png)
 
 **3. Gender Ratio**  
 ![Gender Pie](images/gender_ratio.png)
