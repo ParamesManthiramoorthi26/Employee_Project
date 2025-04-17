@@ -1,0 +1,45 @@
+📊 Employee Data Analysis Project
+This project explores an employee dataset to uncover meaningful insights related to salary trends, department distributions, and managerial roles within an organization. The data analysis and visualizations were performed using SQL and Jupyter Notebook.
+
+🧠 Key Insights
+Active Managers by Department: Count of currently active managers in each department.
+
+Average Salary by Title: Comparison of salary trends by job title.
+
+Department-wise Job Title Composition: Breakdown of titles across different departments.
+
+Salaries by Experience Group: Distribution of salaries based on employee experience levels.
+
+Manager Salary Distribution: Analysis of salaries earned by current managers.
+
+📸 Screenshots
+
+Insight	Visualization
+Active Managers by Dept	
+Avg Salary by Title	
+Dept-wise Composition	
+Salary by Experience	
+Manager Salaries	
+🛠️ Tools & Technologies
+Jupyter Notebook
+
+SQL
+
+Pandas
+
+Matplotlib / Seaborn
+
+PostgreSQL / MySQL
+
+📁 Dataset
+The dataset includes multiple tables such as:
+
+employees
+
+salaries
+
+titles
+
+departments
+
+dept_manager
