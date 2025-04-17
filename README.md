@@ -55,13 +55,13 @@ Here are some of the insights uncovered during the analysis:
 > *(Place your PNG or JPG charts in the repo and reference them like below)*
 
 **1. Salary by Job Title**  
-![](https://github.com/ParamesManthiramoorthi26/Employee_Project/blob/master/screenshots/Average%20salary%20by%20title.png)
+![Salary by Job Title Bar ](https://github.com/ParamesManthiramoorthi26/Employee_Project/blob/master/screenshots/Average%20salary%20by%20title.png)
 
-**2. Salary by Job Title**  
-![Salary Chart](https://github.com/ParamesManthiramoorthi26/Employee_Project/blob/master/screenshots/Average%20salary%20by%20title.png)
+**2. Salary by Job Gender**  
+![Gender salary  pie Chart](https://github.com/ParamesManthiramoorthi26/Employee_Project/blob/master/screenshots/salary%20distribution%20by%20gender.PNG)
 
-**3. Gender Ratio**  
-![Gender Pie](images/gender_ratio.png)
+**3. Salary Distribution by Experience**  
+![Salary Distribution by Experience Pie](https://github.com/ParamesManthiramoorthi26/Employee_Project/blob/master/screenshots/salary%20distribution.PNG)
 
 ---
 
